@@ -3,10 +3,11 @@ please write you're feedback
 
 this is greate course allready 
 
+
 still needs more clarification to link what we learn to reality
 in contiuous progress
-hope to continues with the same progress
-
+hope to continues with the same progre
+Zyad fix conflict
 
 
 
@@ -30,6 +31,10 @@ ahmed elsebaii mahmoud
 
 
 ahmed moh elsebaii
+<<<<<<< HEAD
 =======
 >>>>>>> 539dc1bddf5925330c9dd8c47294b01fab0aa040
 >>>>>>> b3178f1209cd92d78594d3a4d06f9c1cf515c309
+=======
+
+>>>>>>> 2be1dcc4c0456dd44538e1cab87f7e5fbabddfbe
