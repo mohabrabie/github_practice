@@ -1,1 +1,12 @@
 please write you're feedback
+<<<<<<< HEAD
+=======
+
+this is greate course allready 
+
+still needs more clarification to link what we learn to reality
+in contiuous progress
+hope to continues with the same progress
+
+
+>>>>>>> b3178f1209cd92d78594d3a4d06f9c1cf515c309
